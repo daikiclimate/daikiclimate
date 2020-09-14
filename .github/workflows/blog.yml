@@ -2,7 +2,7 @@ steps:
   - uses: actions/checkout@v2
   - uses: sarisia/actions-readme-feed@v1
     with:
-      url: 'https://note.sarisia.cc/index.xml'
+      url: 'https://qiita.com/daikiclimate/feed'
       file: 'README.md'
   - run: |
       git config --global user.name "${{ github.actor }}"
