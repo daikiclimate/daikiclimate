@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Recent Blog Posts
-<!-- feed start -->
-<!-- feed end -->
+
+## My Blog
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
