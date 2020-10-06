@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## My Blog
 <!-- BLOGPOSTS:START -->
+- [【pandas高速化】mergeが遅いと思ったらmapを使え](https://qiita.com/daikiclimate/items/dac04cc3ff97b6e60f37)
 - [【初めてのスクレイピング】スマブラのVIPいきやすいキャラ作ってみた【BeautifulSoup】【ついでにデータ解析】](https://qiita.com/daikiclimate/items/31f613da3600157cbecb)
 - [【wandb】AttributeError: module 'wandb' has no attribute 'init'とでたら](https://qiita.com/daikiclimate/items/ceb13c4f254c1916b378)
 - [【AR】マッチムーブを実装してみた【Python】](https://qiita.com/daikiclimate/items/01d878fc53c3485feb59)
 - [Pythonでrequestsを使ってhashAPIをコールする関数](https://qiita.com/daikiclimate/items/080a509e40fbb8b47c44)
 - [windowsでもMacみたいにモニタ1つでデスクトップ複数使いたい](https://qiita.com/daikiclimate/items/80e97788c443342af6ea)
-- [アンカーを用いない物体検出器CornerNetについてざっくり説明してみる](https://qiita.com/daikiclimate/items/53a97906b1e71ae877d9)
 <!-- BLOGPOSTS:END -->
