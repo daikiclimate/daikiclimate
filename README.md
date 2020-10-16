@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My Blog
 <!-- BLOGPOSTS:START -->
-- [【AppGyver】使ったら1日くらいでアプリ作って申請したらgoogle play storeに公開できてしまった](https://qiita.com/daikiclimate/items/8f8e73c0e8fc1f7069fb)
+- [【AppGyver】使ったら1日くらいでアプリ作って申請したらgoogle play storeに公開できてしまった【高速スマホアプリ開発】](https://qiita.com/daikiclimate/items/8f8e73c0e8fc1f7069fb)
 - [【pandas高速化】mergeが遅いと思ったらmapを使え](https://qiita.com/daikiclimate/items/dac04cc3ff97b6e60f37)
 - [【初めてのスクレイピング】スマブラのVIPいきやすいキャラ作ってみた【BeautifulSoup】【ついでにデータ解析】](https://qiita.com/daikiclimate/items/31f613da3600157cbecb)
 - [【wandb】AttributeError: module 'wandb' has no attribute 'init'とでたら](https://qiita.com/daikiclimate/items/ceb13c4f254c1916b378)
