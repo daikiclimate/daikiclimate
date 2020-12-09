@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## My Blog
 <!-- BLOGPOSTS:START -->
+- [jpholiday...めっちゃ便利だけどmapすると遅いとき](https://qiita.com/daikiclimate/items/081df84c0502ae7d4ad8)
 - [動画アノテーションツールのELANが起動しないとき](https://qiita.com/daikiclimate/items/2b51170b2d510560f01a)
 - [【AppGyver】使ったら1日くらいでアプリ作って申請したらgoogle play storeに公開できてしまった【高速スマホアプリ開発】](https://qiita.com/daikiclimate/items/8f8e73c0e8fc1f7069fb)
 - [【pandas高速化】mergeが遅いと思ったらmapを使え](https://qiita.com/daikiclimate/items/dac04cc3ff97b6e60f37)
 - [【初めてのスクレイピング】スマブラのVIPいきやすいキャラ作ってみた【BeautifulSoup】【ついでにデータ解析】](https://qiita.com/daikiclimate/items/31f613da3600157cbecb)
 - [【wandb】AttributeError: module 'wandb' has no attribute 'init'とでたら](https://qiita.com/daikiclimate/items/ceb13c4f254c1916b378)
-- [【AR】マッチムーブを実装してみた【Python】](https://qiita.com/daikiclimate/items/01d878fc53c3485feb59)
 <!-- BLOGPOSTS:END -->
