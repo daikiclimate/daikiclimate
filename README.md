@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## My Blog
 <!-- BLOGPOSTS:START -->
+- [【solafune】「夜間光データから土地価格を予測」のLSTMベースライン](https://qiita.com/daikiclimate/items/9a4686a8732a35fd14da)
+- [コロナ下での機械学習系の修士の新卒の就活の一例](https://qiita.com/daikiclimate/items/3ef31b555e8960485d6a)
 - [git pushでエラー](https://qiita.com/daikiclimate/items/09c4ce2ef9b96455c73f)
 - [ある日jupyter notebookが突然開けなくなった【memory error】](https://qiita.com/daikiclimate/items/12846df289812b353972)
 - [イベントカメラっぽい画像処理してみた](https://qiita.com/daikiclimate/items/40aa4b9092fa21f48843)
 - [スプラトゥーンAIを作るぜ！part.1](https://qiita.com/daikiclimate/items/899bb3acea5a5f3a390a)
-- [jpholiday...めっちゃ便利だけどmapすると遅いとき](https://qiita.com/daikiclimate/items/081df84c0502ae7d4ad8)
-- [動画アノテーションツールのELANが起動しないとき](https://qiita.com/daikiclimate/items/2b51170b2d510560f01a)
 <!-- BLOGPOSTS:END -->
